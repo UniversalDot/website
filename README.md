@@ -14,3 +14,5 @@ The site is deployed via GIT configuration in Hostinger.
 ## Official Website
 https://universaldot.foundation
 
+https://ipfs.io/ipfs/QmSbXcgip1x7YKBh7bW6aNju8QUEWbLsGWePFEQPyp3pSY/
+
