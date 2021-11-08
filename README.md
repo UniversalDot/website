@@ -14,5 +14,10 @@ The site is deployed via GIT configuration in Hostinger.
 ## Official Website
 https://universaldot.foundation
 
-https://ipfs.io/ipfs/QmSbXcgip1x7YKBh7bW6aNju8QUEWbLsGWePFEQPyp3pSY/
+https://ipfs.io/ipns/universaldot.foundation/
+
+https://ipfs.io/ipfs/QmSbXcgip1x7YKBh7bW6aNju8QUEWbLsGWePFEQPyp3pSY/  < -- Latest hash of the website: UPDATE CNAME to latest hash when updadting website 
+
+
+
 
