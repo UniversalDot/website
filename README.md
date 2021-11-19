@@ -1,4 +1,4 @@
-# Website
+# Website-Foundation
 The official website for UniversalDot Foundation
 
 ## Local Development
