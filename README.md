@@ -9,6 +9,8 @@ To make changes, we recommed using http-server which is a is a simple, zero-conf
 
 The site is deployed via GIT configuration in Hostinger. 
 
+Current Deployment is automatic. It is implemented through a webhook on git push events.
+
 ![Logo](https://github.com/UniversalDot/documents/blob/master/logo/rsz_jpg-02.jpg)
 
 ## Official Website
