@@ -22,6 +22,11 @@ https://ipfs.io/ipns/universaldot.foundation/
 
 https://ipfs.io/ipfs/QmSbXcgip1x7YKBh7bW6aNju8QUEWbLsGWePFEQPyp3pSY/  < -- Latest hash of the website: UPDATE CNAME to latest hash when updadting website 
 
+## Maintainers
+
+[@Igor Stojanov](https://github.com/JosephKnecht-lab)
+
+
 
 
 
