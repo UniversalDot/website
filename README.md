@@ -18,9 +18,6 @@ Current Deployment is automatic. It is implemented through a webhook on git push
 ## Official Website
 https://universaldot.foundation
 
-https://ipfs.io/ipns/universaldot.foundation/
-
-https://ipfs.io/ipfs/QmSbXcgip1x7YKBh7bW6aNju8QUEWbLsGWePFEQPyp3pSY/  < -- Latest hash of the website: UPDATE CNAME to latest hash when updadting website 
 
 ## Maintainers
 
