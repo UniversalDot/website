@@ -13,7 +13,7 @@ The site is deployed via GIT configuration in Hostinger.
 
 Current Deployment is automatic. It is implemented through a webhook on git push events.
 
-![Logo](https://github.com/UniversalDot/documents/blob/master/logo/rsz_jpg-02.jpg)
+![Logo](https://github.com/UniversalDot/documents/blob/master/logo/universaldot-logo/rsz_jpg-02.jpg)
 
 ## Official Website
 https://universaldot.foundation
